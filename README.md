@@ -1,6 +1,7 @@
 # Employee-Workforce-SQL-Analysis
 SQL Server project analyzing employee workforce, engagement, performance, and training data through data cleaning, analysis, and business insights.
 
+
 ## Project Overview
 This project analyzes employee workforce, employee engagement, and training data using SQL Server Management Studio (SSMS).
 The project was developed as a practical SQL portfolio project to demonstrate the complete data analysis process, from working with raw and messy data through data profiling, cleaning, validation, exploratory analysis, SQL querying, and business insight generation.
@@ -11,6 +12,7 @@ The analysis focuses on three main areas:
 - Training participation, outcomes and cost
 
 The project also includes a recruitment dataset that was imported and investigated but was not included in the final analysis scope.
+
 
 ## Business Objective
 The goal of this project is to use employee-related data to answer questions that could support HR and workforce decision-making.
@@ -121,4 +123,62 @@ The cleaned Employee, Engagement and Training tables were used to answer stakeho
 ## Key Insights
 The analysis produced several findings relating to workforce composition, employee engagement, performance and training.
 
+## Power BI Dashboard
+The cleaned SQL tables were connected to Power BI to create visual representations of the analysis. The Power BI report focuses on:
+- workforce overview
+- employee performance
+- employee engagement
+- training participation
+- training costs
+- departmental comparisons
+- relationships between employee performance, engagement and training
 
+## Key Skills Demonstrated
+This project demonstrates practical experience with:
+
+**SQL**
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- COUNT
+- COUNT DISTINCT
+- AVG
+- SUM
+- CASE
+- INNER JOIN
+- LEFT JOIN
+- TRY_CONVERT
+- ALTER TABLE
+- UPDATE
+- data validation
+- data profiling
+- exploratory data analysis
+- multi-table analysis
+
+**Data Cleaning**
+- identifying incorrect data types
+- converting text to dates
+- converting text to numerical values
+- handling blank values
+- investigating NULL values
+- checking duplicates
+- validating identifiers
+- creating analysis-ready tables
+
+**Data Analysis**
+- descriptive analysis
+- workforce analysis
+- engagement analysis
+- training analysis
+- cross-table analysis
+- stakeholder-focused questioning
+- business insight generation
+- Visualization
+- Power BI
+- KPI development
+- dashboard design
+- communicating analytical findings
+
+## Conclusion
+This project demonstrates how SQL can be used beyond simple querying to perform a complete data analysis workflow. Starting with raw employee-related datasets, I profiled the data, identified data-quality and formatting issues, created cleaned tables, validated the transformations, analyzed relationships across employee, engagement and training data, and translated the findings into business-focused insights. The cleaned data was then connected to Power BI for visualization and reporting.
