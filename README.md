@@ -95,7 +95,30 @@ The validation stage was important because successful execution of a SQL query d
 ## STEP 4. SQL Analysis
 The cleaned Employee, Engagement and Training tables were used to answer stakeholder-focused questions. The analysis was divided into single-table, two-table and three-table analysis.
 
+1. **Workforce Analysis**
+- What is the current workforce distribution by employee status?
+- WHich departemnt has the highest number of employees?
+- How does employee performance vary across departments?
+- What is the distribution of employee performance ratings?
+2. **Employee Engagement Analysis**
+- What is the average engagement, satisfaction and work-life balance score?
+- How does employee engagement vary across survey periods?
+3. **Training Analysis**
+- Which training programs are most commonly attended?
+- Which training programs have the highest average training cost?
+- Which training programs have the best training outcomes?
+4. **Employee + Engagement Analysis**
+- Does employee performance differ between employees with high and low engagement?
+- Which departments have the highest employee engagement?
+- Does employee status relate to engagement?
+5.**Employee + Training Analysis**
+- How many employees have received training, by department?
+- Which departments receive the most training investment?
+6. **Three-Table Analysis**
+- How do training participation, engagement and performance relate?
+- Which departments have the strongest combination of performance, engagement and training participation?
 
-
+## Key Insights
+The analysis produced several findings relating to workforce composition, employee engagement, performance and training.
 
 
